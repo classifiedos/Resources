@@ -1,2 +1,6 @@
 X86 Assembler Wikibook:
     http://en.wikibooks.org/wiki/X86_Assembly
+
+Journey to the Stack
+    http://duartes.org/gustavo/blog/post/journey-to-the-stack/
+    http://duartes.org/gustavo/blog/img/stack/callSequence.png
