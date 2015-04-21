@@ -1,0 +1,7 @@
+Git for Computer Scientists:
+    http://eagain.net/articles/git-for-computer-scientists/
+
+A Visual Git Reference:
+    http://marklodato.github.io/visual-git-guide/index-en.html
+
+
