@@ -1,2 +1,5 @@
 C Cheat Sheet:
     http://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference/
+
+Tutorial on Pointers and Arrays:
+    http://www.gamedev.net/page/resources/_/technical/general-programming/a-tutorial-on-pointers-and-arrays-in-c-r1697
