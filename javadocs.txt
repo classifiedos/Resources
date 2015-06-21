@@ -1,0 +1,5 @@
+Quick guide to write, and generate docs:
+https://students.cs.byu.edu/~cs240ta/fall2012/tutorials/javadoctutorial.html
+
+Oracle advice and specifications:
+http://www.oracle.com/technetwork/articles/java/index-137868.html

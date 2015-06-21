@@ -1,0 +1,5 @@
+Excellent description of history and concepts in EMACS:
+http://www2.lib.uchicago.edu/keith/tcl-course/emacs-tutorial.html
+
+Few examples on how to define, save, and call keyboard macros
+http://www.emacswiki.org/emacs/KeyboardMacros#keyboard_macro
