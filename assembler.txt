@@ -8,3 +8,6 @@ Journey to the Stack
 C/C++ to Assembly:
     http://assembly.ynh.io/
     http://gcc.godbolt.org/
+
+GCC's extended inline assembly:
+    https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html

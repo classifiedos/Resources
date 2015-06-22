@@ -3,3 +3,6 @@ C Cheat Sheet:
 
 Tutorial on Pointers and Arrays:
     http://www.gamedev.net/page/resources/_/technical/general-programming/a-tutorial-on-pointers-and-arrays-in-c-r1697
+
+GCC's extended inline assembly:
+    https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html
